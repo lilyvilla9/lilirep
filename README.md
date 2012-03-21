@@ -4,4 +4,6 @@
 
 To learn how to use github.
 
-[this is a random link](gmail.com)
+[this is a random link](http://www.gmail.com)
+
+
